@@ -1,6 +1,6 @@
 <template>
   <div>
-    <Html :lang="dynamic > 50 ? 'en-GB' : 'en-US'">
+    <Html lang="en-US">
       <Head>
         <Title>Top 5O Restaurants in the World</Title>
         <Meta name="description" content="My page is cool" />
